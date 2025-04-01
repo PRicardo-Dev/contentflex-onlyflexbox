@@ -37,9 +37,9 @@ section.flex-content {
     flex-flow: column nowrap;
 }
 
-section > article {
+/* section > article {
     border: 2px dashed green;
-}
+} */
 
 article.text-media {
     display: flex;
